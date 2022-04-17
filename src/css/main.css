@@ -22,7 +22,7 @@ body {
 .hero-container {
   position: absolute;
   top: 0;
-  color: red;
+  color: black;
   height: 100vh;
   width: 100%;
   display: flex;
